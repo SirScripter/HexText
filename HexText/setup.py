@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 setup(
     name='HexText',
     version='0.1.0',
-    author='ZakRehman',
+    author='restriction policy happend',
     author_email='zaksteryt@gmail.com',
     description='Create Coloured/Gradient Text In Python',
     long_description=open('readme.md').read(),

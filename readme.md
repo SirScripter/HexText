@@ -1,4 +1,4 @@
-![HexText](https://raw.githubusercontent.com/SirScripter/hextext/main/hextextlogo.png)
+![HexText](https://raw.githubusercontent.com/SirScripter/HexText/main/HexText.png)
 # HexText
 Use Hex Code To Make Coloured Text With Python
 

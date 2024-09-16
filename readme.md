@@ -7,7 +7,7 @@ Use Hex Code To Make Coloured Text With Python
 pip install hextext
 ```
 ```cmd
-python -m pip install poptext
+python -m pip install hextext
 ```
 
 ## Using HexText With Print Statements
